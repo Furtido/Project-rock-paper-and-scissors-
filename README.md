@@ -1,0 +1,1 @@
+This is a project in javascript about the game rock, paper or scissors
